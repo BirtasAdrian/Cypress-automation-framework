@@ -8,4 +8,4 @@
 
 **The path cypress/support/pageObjects contains page objects for both websites.**
 
-**The folder mochawesome-report contains a full report for both websites.**
+**The folder mochawesome-report contains a full html report for both websites.**

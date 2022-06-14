@@ -1,6 +1,8 @@
 # Cypress-automation-framework
 
-**Needs installed: NodeJs, VS Code, Chrome browser.**
+**Needs installed: NodeJs, VS Code, Chrome browser, Git Bash.**
+
+**Clone the repository, open it with VS Code, use Git Bash as terminal and use the following command: npm install, to install all dependencies in package.json.**
 
 **To install Cypress use in terminal the following commands: npm install --save-dev cypress@9.7.0 and the following: npm install -g npm@7.24.1**
 

@@ -22,7 +22,7 @@
 
 [Test Data](/cypress/fixtures)
 
-**The following link contain a full html report for both websites.**
+**The following link contain a full html report of the tests for both websites.**
 
 [Full html report for WebDriverUniversity and AutomationTestStore](/mochawesome-report)
 

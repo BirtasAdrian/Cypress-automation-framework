@@ -19,6 +19,6 @@
 [Page Objects for AutomationTestStore platform (AutoStore-HairCare and AutoStore-Homepage) ](/cypress/support/pageObjects/automation-test-store)
 
 
-**The folder mochawesome-report contains a full html report for both websites.**
+**The following link contain a full html report for both websites.**
 
 [Full html report for WebDriverUniversity and AutomationTestStore](/mochawesome-report)

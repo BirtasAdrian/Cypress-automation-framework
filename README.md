@@ -25,3 +25,8 @@
 **The following link contain a full html report for both websites.**
 
 [Full html report for WebDriverUniversity and AutomationTestStore](/mochawesome-report)
+
+**Images from the report.**
+
+![image](https://user-images.githubusercontent.com/90641668/212560705-4e32b861-ef3d-4078-a8b9-ed107a0f735b.png)
+

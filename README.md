@@ -6,7 +6,7 @@
 
 **To install Cypress use in terminal the following commands: npm install --save-dev cypress@9.7.0 and the following: npm install -g npm@7.24.1**
 
- The following links contain tests made for http://www.webdriveruniversity.com/ and https://www.automationteststore.com/ websites.**
+**The following links contain tests made for http://www.webdriveruniversity.com/ and https://www.automationteststore.com/ websites.**
 
 [Tests for WebdDriverUniversity platform ](/cypress/integration/webdriver-uni/)
 
@@ -20,3 +20,5 @@
 
 
 **The folder mochawesome-report contains a full html report for both websites.**
+
+[Full html report for WebDriverUniversity and AutomationTestStore](/mochawesome-report)

@@ -18,6 +18,9 @@
 
 [Page Objects for AutomationTestStore platform (AutoStore-HairCare and AutoStore-Homepage) ](/cypress/support/pageObjects/automation-test-store)
 
+**The following link contain Test Data.**
+
+[Test Data](/cypress/fixtures)
 
 **The following link contain a full html report for both websites.**
 

@@ -10,7 +10,6 @@
 
 **The path cypress/support/pageObjects contains page objects for both websites.**
 
-
-BirtasAdrian/Cypress-automation-framework/cypress/support/pageObjects
+[I'm a relative reference to a repository file](../cypress)
 
 **The folder mochawesome-report contains a full html report for both websites.**
